@@ -1,0 +1,23 @@
+﻿  image processing tool assignment 4.cpp
+d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\image processing tool assignment 4.cpp(3): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+  d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\image processing tool assignment 4.cpp(3): note: Add directive to 'stdafx.h' or rebuild precompiled header
+d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\image processing tool assignment 4.cpp(4): warning C4627: '#include <fstream>': skipped when looking for precompiled header use
+  d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\image processing tool assignment 4.cpp(4): note: Add directive to 'stdafx.h' or rebuild precompiled header
+d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\image processing tool assignment 4.cpp(5): warning C4627: '#include <cstring>': skipped when looking for precompiled header use
+  d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\image processing tool assignment 4.cpp(5): note: Add directive to 'stdafx.h' or rebuild precompiled header
+d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\image processing tool assignment 4.cpp(6): warning C4627: '#include <cmath>': skipped when looking for precompiled header use
+  d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\image processing tool assignment 4.cpp(6): note: Add directive to 'stdafx.h' or rebuild precompiled header
+d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\image processing tool assignment 4.cpp(7): warning C4627: '#include "bmplib.h"': skipped when looking for precompiled header use
+  d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\image processing tool assignment 4.cpp(7): note: Add directive to 'stdafx.h' or rebuild precompiled header
+d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\image processing tool assignment 4.cpp(101): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  bmplib.cpp
+d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\bmplib.cpp(2): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+  d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\bmplib.cpp(2): note: Add directive to 'stdafx.h' or rebuild precompiled header
+d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\bmplib.cpp(3): warning C4627: '#include <cstdlib>': skipped when looking for precompiled header use
+  d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\bmplib.cpp(3): note: Add directive to 'stdafx.h' or rebuild precompiled header
+d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\bmplib.cpp(4): warning C4627: '#include "bmplib.h"': skipped when looking for precompiled header use
+  d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\bmplib.cpp(4): note: Add directive to 'stdafx.h' or rebuild precompiled header
+d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\bmplib.cpp(5): warning C4627: '#include "unistd.h"': skipped when looking for precompiled header use
+  d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\bmplib.cpp(5): note: Add directive to 'stdafx.h' or rebuild precompiled header
+d:\projects\visual studio\image processing tool assignment 4\image processing tool assignment 4\bmplib.cpp(444): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
